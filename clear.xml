@@ -1,0 +1,36 @@
+<filesystem.FileSystem>
+  <blocks>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+  </blocks>
+  <root>
+    <uid>1386909198570</uid>
+    <directory>true</directory>
+    <blocks class="linked-list"/>
+    <hardLinksCount>1</hardLinksCount>
+  </root>
+  <currentDirectory reference="../root"/>
+  <opened/>
+  <links>
+    <entry>
+      <string>root</string>
+      <filesystem.FileDescriptor reference="../../../root"/>
+    </entry>
+  </links>
+</filesystem.FileSystem>

@@ -1,0 +1,71 @@
+<filesystem.FileSystem>
+  <blocks>
+    <filesystem.DataBlock>
+      <used>true</used>
+      <data>usr</data>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>true</used>
+      <data>Ckkymag[ffYRxqHLGHNBZLPRt\ldIdwDUSUsmSyRxcmlPZLWZvZtyKhhNcHzkmn]gBl`qQkqoeasItEGHxvolYuHiTOZm_AOR`bxF`pGXaqJO^Zlf`v\JjIFCBsGwksBDO^YDBraxSFhesJsIdoYoAuPOINjU]vcxA[yHLzisWAkERJnI^DLGTRn]SGJPeavFvytF[oc\kP[ZyAgQJGnxUXzXh^TQIwqylkrCqgCw[^\OUc^AwQLHaNvpsZY_`h\EJuNmJbZEhXpupBIyn`_l`qSvQQDvslgi[cHOUm[^dZRZUGVxOuJOqLhBPGxXFmIF^NR[qyjtWF]CS`lz`n]bYpdHvQVA\CKTQEbHUuEkAWDpfEWxKm`_QlWvlfMMVRBSk][duEYGgpglXYWXWrtSIHkHfpiMJlo_fMB]dAUVYM]Xz`AyOSeCEReWxDUoRlToBOXQDaV^\XsLbAugnkzzPNPjaIHkWXGRZHwEqSAxaNloapgvTLPDFtGGCmjfUiq</data>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>true</used>
+      <data>SPZ</data>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>true</used>
+      <data>JOCCq]d`YMSGTiqu_IYsVDIpBo\xtrKzfQa`FMIdx]NCGfOB_R\GHGIFUg[HMPo]jXFWwwjwryFH]JBLSfdaLwdmuUa[eT__bFuwVfJNHzWktXEuslNuKLtcsPFugHm`hPNAq^dqMgKeC]ccAQVe[z\eeMesUKbSsFyquqAzXhbaM^Alh]]oPZNxZzWf`[uVwQycxPYtxyE_KlxitJIMgGUitOPQKNorGiZQyu[nbhDXSGaLMdsxjrSIYqjAwDlIWeQuIcA\[zCiLJnZSyWTHFYXHCky`ANtI`UqzlkFkJgeQwZ`PvYN^SpzuYnQmOrc\dslxpuJ_ZfQIqgJoDVcNPYYFE`qr^LhwpN\\QKAbcJYKnkxZtgHvo[\^BRSdJzRT^JLfWqlUpMocAxpLYYHbWtBYbL[NADlVakGrdyYKA[scHlXDbdKW_HCu[PmkPHgMAnwTGKp`IUOY^gsDhlHSKL`CqL[^qYLkOx__p^QEmpZYfsmK^ZXIhA[fHMdBNyu</data>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>true</used>
+      <data>hlSPZ</data>
+    </filesystem.DataBlock>
+    <filesystem.DataBlock>
+      <used>false</used>
+    </filesystem.DataBlock>
+  </blocks>
+  <root>
+    <uid>1386909198570</uid>
+    <directory>true</directory>
+    <blocks class="linked-list">
+      <int>0</int>
+    </blocks>
+    <hardLinksCount>1</hardLinksCount>
+  </root>
+  <currentDirectory reference="../root"/>
+  <opened/>
+  <links>
+    <entry>
+      <string>SPZ</string>
+      <filesystem.FileDescriptor>
+        <uid>1386909338003</uid>
+        <directory>false</directory>
+        <blocks class="linked-list">
+          <int>1</int>
+          <int>3</int>
+        </blocks>
+        <hardLinksCount>2</hardLinksCount>
+      </filesystem.FileDescriptor>
+    </entry>
+    <entry>
+      <string>root</string>
+      <filesystem.FileDescriptor reference="../../../root"/>
+    </entry>
+    <entry>
+      <string>hlSPZ</string>
+      <filesystem.FileDescriptor reference="../../entry/filesystem.FileDescriptor"/>
+    </entry>
+    <entry>
+      <string>usr</string>
+      <filesystem.FileDescriptor>
+        <uid>1386909284029</uid>
+        <directory>true</directory>
+        <blocks class="linked-list">
+          <int>2</int>
+          <int>4</int>
+        </blocks>
+        <hardLinksCount>1</hardLinksCount>
+      </filesystem.FileDescriptor>
+    </entry>
+  </links>
+</filesystem.FileSystem>
